@@ -1,1 +1,1 @@
-# calculator-in-JS
+# CalculatorJS-Section
